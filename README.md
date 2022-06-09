@@ -7,3 +7,5 @@
 
 # Kemerdekaan
 17 Agustus 1945
+
+# Kamu suka pupup
