@@ -16,3 +16,10 @@
 - git remote -vv
 - git checkout -b <nama-branch-baru>
 - git merge .... dst
+
+
+# step buat rename git
+- git branch -m main master
+- git fetch origin
+- git branch -u origin/master master
+- git remote set-head origin -a
